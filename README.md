@@ -1,11 +1,12 @@
 # Housing prices prediction using machine learning models
-
+<img src='https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/08/house-prices-scaled.jpg' alt='houses' width=200 height=150>
 
 # Welcome !
-<img src='https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2021/08/house-prices-scaled.jpg' alt='houses' width=200 height=150>
-In this notebook, we will build regression models to predict houses prices based on some features like area, number of bedrooms, and number of stories.\
+In this notebook, we will build regression models to predict houses prices based on some features like area, number of bedrooms, and number of stories.
+
 The [dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset/data) source is kaggle.
 
+# Content
 The notebook has 4 sections
 - Data Exploration : where we browse some rows of the dataset and know its features and datatypes.
 - Data Preprocessing : where we perform data cleaning, normalization, and feature scaling.
